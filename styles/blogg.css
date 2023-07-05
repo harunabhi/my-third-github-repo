@@ -3,4 +3,8 @@ div{
     border: 5px solid teal;
     box-sizing: border-box;
     border-radius: 10px;
+    margin-bottom: 10px;
+}
+.sel{
+    color: blue;
 }

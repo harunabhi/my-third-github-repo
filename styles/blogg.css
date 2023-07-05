@@ -1,0 +1,6 @@
+div{
+    background-color: tomato;
+    border: 5px solid teal;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
